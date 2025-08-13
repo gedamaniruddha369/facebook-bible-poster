@@ -1,0 +1,11 @@
+# Ignore the environment variables file
+.env
+
+# Ignore the state file (we will handle this on Render another way)
+last_posted.txt
+
+# Ignore Python's cache directory
+__pycache__/
+
+# Ignore VS Code settings directory
+.vscode/
